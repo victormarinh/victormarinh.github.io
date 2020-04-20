@@ -1,0 +1,4 @@
+bebe -> 0 < 7
+jovem -> 8 < 17
+adulta -> 18 < 49
+senhora -> 50 até o além
